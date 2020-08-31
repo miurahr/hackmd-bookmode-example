@@ -1,17 +1,18 @@
-# Collect your documents with a book
+{%hackmd theme-dark %}
 
-View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
+# OSM和訳解説(OmegaT & Github編)
 
-Examples
+[![hackmd-github-sync-badge](https://hackmd.io/HvxfQJoBRKC0d1EMw3v-1w/badge)](https://hackmd.io/HvxfQJoBRKC0d1EMw3v-1w)
+
+
+本ドキュメントは、 ["<i class="fa fa-book fa-fw"></i> HackMDのBook Mode"](https://hackmd.io/@miurahr/r14oK7MXv/%2F%40osmfj%2FS1zmLzGXD)で閲覧することがえきます。
+
+
+目次
 ---
-- [Book example](/s/book-example)
-- [Slide example](/s/slide-example)
-- [YAML metadata](/s/yaml-metadata)
-- [Features](/s/features)
+- [OpenStreetMap 翻訳プロジェクトの概要](/@osmfj/S1zmLzGXD)
+- [CATビギナーのためのOmegaT]()
+- [Githubを利用したチーム翻訳の仕組み]()
 
-Themes
----
-- [Dark theme](/theme-dark?both)
-- [Vertical alignment](/theme-vertical-writing?both)
+###### tags: `Book`, `OmegaT`, `OpenStreetMap`, `Wiki`
 
-###### tags: `Templates` `Book`
